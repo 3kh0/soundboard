@@ -11,7 +11,7 @@ Simple yet powerful online soundboard app that is a huge improvement from the la
 - Audio control menu
 
 ## Getting Started
-To use this, simply visit [the website](https://soundboardv2.3kh0.repl.co/) in your web browser. You can then click on the colorful buttons to play the sounds, or use the audio control menu to play or stop all sounds at once.
+To use this, simply visit [the website](https://soundboard.3kh0.net/) in your web browser. You can then click on the colorful buttons to play the sounds, or use the audio control menu to play or stop all sounds at once.
 
 ## Contributing
 
