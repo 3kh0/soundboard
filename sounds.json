@@ -1019,6 +1019,21 @@
       "name": "Kitchen Nightmares Violin",
       "color": "#33a5c4",
       "mp3": "sounds/kitchennightmares.mp3"
+    },
+    {
+      "name": "Dream Speedrun",
+      "color": "#eb4034",
+      "mp3": "sounds/trancemusicforracinggame.mp3"
+    },
+    {
+      "name": "1, 2, buckle my shoe",
+      "color": "#4fb2e3",
+      "mp3": "sounds/onetwobucklemyshoe.mp3"
+    },
+    {
+      "name": "DOWN IN OHIO",
+      "color": "#000000",
+      "mp3": "sounds/downinohio.mp3"
     }
   ]
 }
